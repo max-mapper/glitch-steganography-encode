@@ -1,0 +1,21 @@
+{
+  "name": "glitch-steganography",
+  "version": "9000.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "body-parser": "^1.6.2",
+    "data-uri-to-buffer": "0.0.3",
+    "express": "^4.8.2",
+    "get-pixels": "^1.1.0",
+    "glitch-jpg": "^1.0.4",
+    "lsb": "^0.1.0",
+    "nconf": "^0.6.9",
+    "save-pixels": "^1.0.0"
+  }
+}
